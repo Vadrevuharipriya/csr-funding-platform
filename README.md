@@ -27,9 +27,6 @@ A comprehensive Corporate Social Responsibility (CSR) funding platform that conn
 - **Project verification** system for authenticity
 - **Global reach** with international project support
 
-## 🚀 Live Demo
-
-Visit the live application: [https://csr-funding-platform-zzha.bolt.host](https://csr-funding-platform-zzha.bolt.host)
 
 ## 🛠️ Technology Stack
 
